@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shriram</h1>
 <br>
+<td width="35%" valign="center" align="center">
+  <img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="30%" />
 </td>
-<td width="35%" valign="center">
-<img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="30%" />
-</td>
-</tr>
-</table>
-<h3 align="center">A passionate frontend developer from Karnataka</h3>
+<h3 align="center">I'm a developer who believes in a balanced lifestyle: one part `git commit`, one part gym set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BEASTSHRIRAM&label=Profile%20views&color=0e75b6&style=flat" alt="BEASTSHRIRAM" /> </p>
 
