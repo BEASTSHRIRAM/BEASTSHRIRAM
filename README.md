@@ -4,22 +4,9 @@
   <img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="30%" />
 </td>
 <h3 align="center">I'm a developer who believes in a balanced lifestyle: one part `git commit`, one part gym set.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BEASTSHRIRAM&label=Profile%20views&color=0e75b6&style=flat" alt="BEASTSHRIRAM" /> </p>
-
-You can usually find me doing one of three things:
-1.  🏋️‍♂️ Pushing my limits at the **gym** (and trying to remember if it's leg day or back day).
-2.  ✈️ Pushing the boundaries of my comfort zone by **travelling** to new places.
-3.  💻 Pushing code to `main` and praying the CI/CD pipeline agrees with my life choices.
-
-I love building robust applications, exploring new cultures, and figuring out which pre-workout pairs best with a late-night coding session.
-
----
-
+__________________________________________________________________________________________________________________________________________________________________________________________
 ## 🚀 My Tech Stack & Tools
-
-I'm a polyglot programmer with a passion for creating efficient, scalable, and intelligent systems. Here are some of the technologies I've been working with:
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -60,20 +47,16 @@ I'm a polyglot programmer with a passion for creating efficient, scalable, and i
     </td>
   </tr>
 </table>
-## 📊 My GitHub Stats
-
+__________________________________________________________________________________________________________________________________________________________________________________________
+ 📊 My GitHub Stats
 > **Note:** These stats are dynamic and will update automatically!
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEASTSHRIRAM&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTSHRIRAM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEASTSHRIRAM&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
+__________________________________________________________________________________________________________________________________________________________________________________________
 ## 📫 Let's Connect!
-
 I'm always open to connecting with fellow developers, travelers, and gym enthusiasts. Feel free to reach out!
 
 <p align="left">
