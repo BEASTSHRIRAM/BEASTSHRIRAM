@@ -5,7 +5,7 @@
 </td>
 <h3 align="center">I'm a developer who believes in a balanced lifestyle: one part `git commit`, one part gym set.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BEASTSHRIRAM&label=Profile%20views&color=0e75b6&style=flat" alt="BEASTSHRIRAM" /> </p>
-______________________________________________________________________________________________________________________________________________________
+<br>
 🚀 My Tech Stack & Tools
 <table>
   <tr>
@@ -47,14 +47,14 @@ ________________________________________________________________________________
     </td>
   </tr>
 </table>
-______________________________________________________________________________________________________________________________________________________
+<br>
 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEASTSHRIRAM&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTSHRIRAM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEASTSHRIRAM&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-_____________________________________________________________________________________________________________________________________________________
+<br>
 I'm always open to connecting with fellow developers, travelers, and gym enthusiasts. Feel free to reach out!
 
 <p align="left">
