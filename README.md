@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shriram</h1>
 <br>
 </td>
-<td width="35%" valign="top">
+<td width="35%" valign="center">
 <img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="30%" />
 </td>
 </tr>
