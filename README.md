@@ -15,49 +15,50 @@ I love building robust applications, exploring new cultures, and figuring out wh
 
 I'm a polyglot programmer with a passion for creating efficient, scalable, and intelligent systems. Here are some of the technologies I've been working with:
 
-table>
-<tr>
-<td valign="top">
-<h4>Frontend</h4>
-<ul>
-<li>HTML5 & CSS3</li>
-<li>JavaScript (ES6+)</li>
-<li>TypeScript</li>
-<li>React</li>
-</ul>
-</td>
-<td valign="top">
-<h4>Backend</h4>
-<ul>
-<li>Java & Spring Boot</li>
-<li>Python</li>
-<li>Kotlin</li>
-<li>Apache Kafka</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h4>AI/ML</h4>
-<ul>
-<li>LangChain</li>
-<li>LangFlow</li>
-<li>Generative AI</li>
-</ul>
-</td>
-<td valign="top">
-<h4>Tools</h4>
-<ul>
-<li>Git & GitHub</li>
-<li>SonarQube</li>
-<li>Docker</li>
-</ul>
-</td>
-</tr>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend</h3>
+      <ul>
+        <li><code>HTML5</code> & <code>CSS3</code></li>
+        <li><code>JavaScript</code> (ES6+)</li>
+        <li><code>TypeScript</code></li>
+        <li><code>React</code></li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Backend</h3>
+      <ul>
+        <li><code>Java</code> & <code>Spring Boot</code></li>
+        <li><code>Python</code></li>
+        <li><code>Kotlin</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>AI / ML</h3>
+      <ul>
+        <li><code>LangChain</code></li>
+        <li><code>LangFlow</code></li>
+        <li>Generative AI & LLMs</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Tools & DevOps</h3>
+      <ul>
+        <li><code>Git</code> & <code>GitHub</code></li>
+        <li><code>Apache Kafka</code></li>
+        <li><code>SonarQube</code></li>
+        <li><code>Docker</code></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 </td>
 <td width="35%" valign="top">
-<img src="[https://www.google.com/search](https://www.bing.com/images/create/create-a-3d-illustration-of-an-animated-character-/1-688e45098555485ebe1927b5dcea2956?id=e-563A4PWRYc9HygtXe1qa&view=detailv2&idpp=genimg&thId=OIG2.kpxRYF6.2fooS657rwPk&mdl=1&skey=bkbSvSXZxV0F16eZ7IydkSshDT_6JiPajUBhHObKkhs&FORM=GCRIDP)?q=https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/avatar.png" alt="Custom 3D Avatar" width="100%" />
+<img src="<img width="351" height="351" alt="image" src="https://github.com/user-attachments/assets/1aba236f-a6d9-4aea-a963-b6423ee9d101" />
+?q=https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/avatar.png" alt="Custom 3D Avatar" width="100%" />
 </td>
 </tr>
 </table>
