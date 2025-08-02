@@ -57,7 +57,7 @@ I'm a polyglot programmer with a passion for creating efficient, scalable, and i
 </table>
 </td>
 <td width="35%" valign="top">
-<img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="100%" />
+<img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="30%" />
 </td>
 </tr>
 </table>
