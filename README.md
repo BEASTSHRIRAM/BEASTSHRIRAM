@@ -58,7 +58,7 @@ ________________________________________________________________________________
 I'm always open to connecting with fellow developers, travelers, and gym enthusiasts. Feel free to reach out!
 
 <p align="left">
-  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/shriram-kulkarni-033b8328a)" target="_blank">
+  <a href="linkedin.com/in/shriram-kulkarni-033b8328a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
