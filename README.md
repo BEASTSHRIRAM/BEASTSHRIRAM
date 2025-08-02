@@ -47,16 +47,15 @@ ________________________________________________________________________________
     </td>
   </tr>
 </table>
-__________________________________________________________________________________________________________________________________________________________________________________________
- 📊 My GitHub Stats
+____________________________________________________________________________________________________________________________________________________
+📊 My GitHub Stats
 > **Note:** These stats are dynamic and will update automatically!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEASTSHRIRAM&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTSHRIRAM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEASTSHRIRAM&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-__________________________________________________________________________________________________________________________________________________________________________________________
-## 📫 Let's Connect!
+_____________________________________________________________________________________________________________________________________________________
 I'm always open to connecting with fellow developers, travelers, and gym enthusiasts. Feel free to reach out!
 
 <p align="left">
