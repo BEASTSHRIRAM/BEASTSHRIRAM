@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shriram</h1>
 <br>
-<img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="100%" />
+<img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="10%" />
 <h3 align="center">A passionate frontend developer from Karnataka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BEASTSHRIRAM&label=Profile%20views&color=0e75b6&style=flat" alt="BEASTSHRIRAM" /> </p>
