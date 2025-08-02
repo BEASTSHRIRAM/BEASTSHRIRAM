@@ -57,8 +57,7 @@ I'm a polyglot programmer with a passion for creating efficient, scalable, and i
 </table>
 </td>
 <td width="35%" valign="top">
-<img src="<img width="351" height="351" alt="image" src="https://github.com/user-attachments/assets/1aba236f-a6d9-4aea-a963-b6423ee9d101" />
-?q=https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/avatar.png" alt="Custom 3D Avatar" width="100%" />
+<img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/springboot-avatar.png" alt="Shriram with SpringBoot Logo" width="100%" />
 </td>
 </tr>
 </table>
@@ -69,9 +68,9 @@ I'm a polyglot programmer with a passion for creating efficient, scalable, and i
 > **Note:** These stats are dynamic and will update automatically!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BEASTSHRIRAM&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTSHRIRAM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEASTSHRIRAM&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
