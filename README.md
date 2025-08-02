@@ -5,8 +5,8 @@
 </td>
 <h3 align="center">I'm a developer who believes in a balanced lifestyle: one part `git commit`, one part gym set.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BEASTSHRIRAM&label=Profile%20views&color=0e75b6&style=flat" alt="BEASTSHRIRAM" /> </p>
-__________________________________________________________________________________________________________________________________________________________________________________________
-## 🚀 My Tech Stack & Tools
+______________________________________________________________________________________________________________________________________________________
+🚀 My Tech Stack & Tools
 <table>
   <tr>
     <td valign="top" width="50%">
