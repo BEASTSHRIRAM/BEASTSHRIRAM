@@ -80,13 +80,13 @@ I'm a polyglot programmer with a passion for creating efficient, scalable, and i
 I'm always open to connecting with fellow developers, travelers, and gym enthusiasts. Feel free to reach out!
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/shriram-kulkarni-033b8328a)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:shrikulk20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
