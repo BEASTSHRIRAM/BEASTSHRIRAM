@@ -1,6 +1,9 @@
-# Hi there, I'm Shriram! 👋
+<h1 align="center">Hi 👋, I'm Shriram</h1>
+<br>
+<img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="100%" />
+<h3 align="center">A passionate frontend developer from Karnataka</h3>
 
-### I'm a developer who believes in a balanced lifestyle: one part `git commit`, one part gym set.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BEASTSHRIRAM&label=Profile%20views&color=0e75b6&style=flat" alt="BEASTSHRIRAM" /> </p>
 
 You can usually find me doing one of three things:
 1.  🏋️‍♂️ Pushing my limits at the **gym** (and trying to remember if it's leg day or back day).
