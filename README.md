@@ -16,6 +16,7 @@
         <li><code>JavaScript</code> (ES6+)</li>
         <li><code>TypeScript</code></li>
         <li><code>React</code></li>
+        <li><code>Streamlit</code></li>
       </ul>
     </td>
     <td valign="top" width="50%">
