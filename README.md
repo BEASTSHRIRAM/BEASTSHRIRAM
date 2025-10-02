@@ -7,7 +7,7 @@
 <h3 align="center">I'm a developer who believes in a balanced lifestyle: one part <code>git commit</code>, one part gym set.</h3>
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%26+AI+Engineer;Full-Stack+Learner;Problem+Solver+%26+Innovator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer+%26+AI+Engineer;Full-Stack+Learner;Problem+Solver+%26+Innovator)
 
 </div>
 <p align="center">
