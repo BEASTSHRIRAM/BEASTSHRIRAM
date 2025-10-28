@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 My Tech Stack & Tools
+###  My Tech Stack & Tools
 
 <table>
   <tr>
@@ -61,7 +61,7 @@
 </table>
 
 ---
-### 📊 My GitHub Stats
+###  My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEASTSHRIRAM&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -70,7 +70,7 @@
 </p>
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shriram-kulkarni-033b8328a" target="_blank">
