@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shriram</h1>
-
+<h1 align="center">Hi , I'm Sriram</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BEASTSHRIRAM/BEASTSHRIRAM/main/OIG4.jpeg" alt="Shriram with SpringBoot Logo" width="200" />
+  <a href="https://holopin.io/@beastshriram">
+    <img src="https://holopin.me/beastshriram" alt="Holopin badges" />
+  </a>
 </p>
 
 <h3 align="center">I'm a developer who believes in a balanced lifestyle: one part <code>git commit</code>, one part gym set.</h3>
