@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 ## Stack
 
 <p align="left">
@@ -36,15 +35,17 @@
 
 
 ---
-###  My GitHub Stats
+# GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BEASTSHRIRAM&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTSHRIRAM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=BEASTSHRIRAM&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=BEASTSHRIRAM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=BEASTSHRIRAM&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BEASTSHRIRAM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
+
 
 ### Let's Connect
 
