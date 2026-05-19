@@ -1,14 +1,11 @@
 <h1 align="center">Hi , I'm Sriram</h1>
-<p align="center">
-  <a href="https://holopin.io/@beastshriram">
-    <img src="https://holopin.me/beastshriram" alt="Holopin badges" />
-  </a>
-</p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=AI+Researcher;LLMops;Full+Stack+Web+Dev;Robotics+and+IoT;Open-Source+Advocate;Cloud+Developer)](https://git.io/typing-svg)
+
+</div>
 <h3 align="center">I debug code better than I debug my sleep schedule. Both need work.</h3>
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer+%26+AI+Engineer;Full-Stack+Learner;Problem+Solver+%26+Innovator)
 
 </div>
 <p align="center">
@@ -17,49 +14,26 @@
 
 ---
 
-###  My Tech Stack & Tools
+## Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Frontend</h3>
-      <ul>
-        <li><code>HTML5</code> & <code>CSS3</code></li>
-        <li><code>JavaScript</code> (ES6+)</li>
-        <li><code>TypeScript</code></li>
-        <li><code>React</code></li>
-        <li><code>Streamlit</code></li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Backend</h3>
-      <ul>
-        <li><code>Java</code> & <code>Spring Boot</code></li>
-        <li><code>Python</code></li>
-        <li><code>Kotlin</code></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>AI / ML</h3>
-      <ul>
-        <li><code>LangChain</code></li>
-        <li><code>LangFlow</code></li>
-        <li>Generative AI & LLMs</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Tools & DevOps</h3>
-      <ul>
-        <li><code>Git</code> & <code>GitHub</code></li>
-        <li><code>Apache Kafka</code></li>
-        <li><code>SonarQube</code></li>
-        <li><code>Docker</code></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,bash,docker,git,linux,fastapi,redis,cloudflare,github" />
+</p>
+
+**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · React · Streamlit  
+
+**Backend:** Python · Java · Spring Boot · Kotlin · FastAPI · Node.js  
+
+**AI/ML:** LangChain · LangGraph · RAG pipelines  
+
+**Cloud and Infrastructure:** AWS (Bedrock, S3, RDS, EC2) · Docker · Kubernetes · Cloudflare Workers · Vercel  
+
+**Databases:** PostgreSQL · MongoDB · Supabase · AWS RDS · Cloudflare D1  
+
+**Security Tooling:** SonarCloud · Semgrep · GitHub Actions · SonarQube  
+
+**Vector and Data:** ChromaDB · FAISS · Sentence Transformers · Qdrant
+
 
 ---
 ###  My GitHub Stats
@@ -69,6 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTSHRIRAM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=BEASTSHRIRAM&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### Let's Connect
